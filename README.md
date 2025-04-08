@@ -9,12 +9,12 @@
 # 기술
 ---
 + <a href="https://github.com/JIN-YOO-YU/Study-Note"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a>
-+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
++ <a href="https://github.com/JIN-YOO-YU/Study-Note"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 
 
 # Projects
 ---
-지난간 진행했던 프로젝트입니다.
+현재 진행중인 프로젝트입니다.
 
 > ### 1. 게임(이름미정) 개발
 > ---

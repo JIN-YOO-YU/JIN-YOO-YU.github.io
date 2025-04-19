@@ -19,7 +19,7 @@
 
 > ### 1. 게임(이름미정) 개발
 > ---
-> <https://github.com/JIN-YOO-YU/Omok><변칙 오목게임(졸업작품 - 팀프로젝트)>
+> <a href="https://github.com/JIN-YOO-YU/Omok"><변칙 오목게임(졸업작품 - 팀프로젝트)></a>
 > + 개발기간 : 2025-03-11 ~
 > + 역할 : 미정
 > + 사용엔진 : Unity

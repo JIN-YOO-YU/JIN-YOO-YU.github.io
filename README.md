@@ -13,7 +13,7 @@
 + <a href="https://github.com/JIN-YOO-YU/Study-Note"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 
-# 📝Projects
+# 📝프로젝트
 ---
 현재 진행중인 프로젝트입니다.
 

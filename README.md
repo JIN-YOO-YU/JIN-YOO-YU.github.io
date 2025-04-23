@@ -29,7 +29,7 @@
 # 🧰자격증
 ---
 #### + <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
-#### + mos자격증 A
+#### + <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/report.pdf">Mos Master 합격
 
 
 # 💼학업 성과

@@ -48,15 +48,16 @@
 
 # 🏃활동
 ---
+#### 개발 실무 역량을 키우기 위해 온라인 강의와 다양한 오프라인 행사에 꾸준히 참여하고 있습니다. 강의를 통해 이론과 실습을 병행하며, 박람회와 특강에서는 업계 트렌드와 실무 환경을 직접 체험했습니다.
 ## 📚온라인
 + #### Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf">사이버진로교육센터 강의 학습(2025.05.01 ~ 2025.05.27)
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf">언텍트 진로&취업특강(2025.05.01 ~ 2025.05.27)
 ## 🎪오프라인
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf"> 취업특강 관람
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf"> 직업선호도검사L형 참여
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동(2025.05.12 ~ )
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람(2025.05.16)
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf"> 취업특강 관람(2025.05.14)
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf"> 직업선호도검사L형 참여(2025.05.07)
 
 # 📞연락처
 ---

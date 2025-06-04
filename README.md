@@ -55,8 +55,8 @@
 ## 🎪오프라인
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf"> 취업특강 관람
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형확인서.pdf"> 직업선호도검사L형 참여
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강참여확인서.pdf"> 취업특강 관람
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf"> 직업선호도검사L형 참여
 
 # 📞연락처
 ---

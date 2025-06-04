@@ -51,8 +51,10 @@
 ## 온라인
 + #### Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf">사이버진로교육센터 강의 학습(2025.05.01 ~ 2025.05.27)
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf">언텍트 진로&취업특강(2025.05.01 ~ 2025.05.27)
 ## 오프라인
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.hwp">캡스톤 디자인 스터디 활동
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람
 
 # 📞연락처
 ---

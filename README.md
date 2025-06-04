@@ -24,31 +24,31 @@
 > #### 1. <a href="https://github.com/JIN-YOO-YU/Omok"><변칙 캐릭터 오목 개발></a>
 > ---
 > + #### 개발기간 : 2025-03-11 ~ 2025-11-07
-> #### + 역할 : DB 구현
-> #### + 사용엔진 : Unity
-> #### + 사용언어 : C#
+> + ####  역할 : DB 구현
+> + ####  사용엔진 : Unity
+> + ####  사용언어 : C#
 
 > #### 2. <Hospes 개발>
 > ---
-> #### + 개발기간 : 2025-05-14 ~ 2025-11-07
-> #### + 역할 : UI 구현
-> #### + 사용엔진 : Unreal Engine
-> #### + 사용언어 : C++
+> + #### 개발기간 : 2025-05-14 ~ 2025-11-07
+> + #### 역할 : UI 구현
+> + #### 사용엔진 : Unreal Engine
+> + #### 사용언어 : C++
 
 
 # 🧰자격증
 ---
-#### + <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
-#### + <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/Cert139213253906.pdf">Mos Master 취득
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/Cert139213253906.pdf">Mos Master 취득
 
 
 # 💼학업 성과
 ---
-#### + 서일대학교 재학 중(2021.03.01 ~ )
-#### + Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )
++ #### 서일대학교 재학 중(2021.03.01 ~ )
++ #### Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )
 
 
 # 📞연락처
 ---
-#### + 핸드폰 : 010-2366-3611
-#### + Email : wlsdn3693@gmail.com
++ #### 핸드폰 : 010-2366-3611
++ #### Email : wlsdn3693@gmail.com

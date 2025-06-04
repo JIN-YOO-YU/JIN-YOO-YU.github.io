@@ -52,7 +52,7 @@
 + #### Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf">사이버진로교육센터 강의 학습(2025.05.01 ~ 2025.05.27)
 ## 오프라인
-+ #### 캡스톤 디자인 스터디 활동
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동
 
 # 📞연락처
 ---

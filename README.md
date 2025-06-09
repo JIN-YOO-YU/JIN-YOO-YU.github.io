@@ -31,7 +31,7 @@
 > #### 2. <Hospes 개발>
 > ---
 > + #### 개발기간 : 2025-05-14 ~ 2025-11-07
-> + #### 역할 : UI 구현
+> + #### 역할 : UI담당
 > + #### 사용엔진 : Unreal Engine
 > + #### 사용언어 : C++
 
@@ -92,16 +92,24 @@
 </details>
 
 <details>
-  <summary>캡스톤 디자인 스터디 활동(2025.05.12 ~ )</summary>
-  
-  - 새 프로젝트 제안(HOSPES) 및 자료 작성
-  - 유니티에서 언리얼로 개발환경 변경 및 학습
-  - HOSPES 스토리보드 및 개발 계획 정립
-  - 후기 : 아주 유익하고 도움이 됩니다.
+  <summary>AI 엑스포 관람(2025.05.16)</summary>
+
+  - AI활동보고서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf)
 </details>
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람(2025.05.16)
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf"> 취업특강 관람(2025.05.14)
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf"> 직업선호도검사L형 참여(2025.05.07)
+<details>
+  <summary>취업특강 관람(2025.05.14)</summary>
+  
+  - 3학년 취업특강 관람
+  - 취업특강확인서는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf)
+  - 후기 : 취업 준비에 필요한 정보들을 쉽게 이해할 수 있었고, 실질적인 팁도 많이 얻을 수 있어서 유익했어요
+</details>
+
+<details>
+  <summary>직업선호도검사L형 참여(2025.05.07)</summary>
+  
+  - 직업선호도검사확인서는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf)
+  - 후기 : 검사를 통해 나에게 맞는 직업 유형을 간단하게 알아볼 수 있어서 유익했어요. 문항 수도 많지 않아 부담 없이 참여할 수 있었고, 결과도 비교적 정확하게 느껴졌습니다. 진로 고민이 있을 때 한 번쯤 해보면 좋을 것 같아요!
+</details>
 
 # 📞연락처
 ---

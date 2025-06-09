@@ -54,7 +54,6 @@
   <summary> Udemy C#과 Unity로 3D 게임 개발하기 학습 중(2025.03.15 ~ )</summary>
   
   - 학습 중...
-  - 
 </details>
 
 <details>

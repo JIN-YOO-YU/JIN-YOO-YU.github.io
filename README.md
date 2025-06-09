@@ -77,10 +77,19 @@
   - 언텍트 진로특강(1시간)
   - 언텍트 튀업특강(1시간)
   - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
+  - 후기 : 진로, 취업에 도움이됩니다.
 </details>
 
 ## 🎪오프라인
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf">캡스톤 디자인 스터디 활동(2025.05.12 ~ )
+<details>
+  <summary>캡스톤 디자인 스터디 활동(2025.05.12 ~ )</summary>
+  
+  - 언텍트 진로특강(1시간)
+  - 언텍트 튀업특강(1시간)
+  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_스터디합본.pdf)
+  - 후기 : 
+</details>
+
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf"> AI 엑스포 관람(2025.05.16)
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf"> 취업특강 관람(2025.05.14)
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf"> 직업선호도검사L형 참여(2025.05.07)

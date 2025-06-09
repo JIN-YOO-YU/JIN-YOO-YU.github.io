@@ -54,9 +54,9 @@
 <details>
   <summary>사이버진로교육센터 강의 학습 (2025.05.01 ~ 2025.05.27)</summary>
 
-  - 진로 설정 및 직무 이해에 대한 온라인 강의 수강  
+  - 
   - 수료 인증서 발급 완료  
-  - 관련 내용은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
+  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
 
 </details>
 

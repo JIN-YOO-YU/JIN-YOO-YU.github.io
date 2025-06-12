@@ -65,7 +65,7 @@
   - #센스 있는 자기 PR: 자기소개서 A to Z(2시간)
   - 다양한 구직정보의 분석 및 활용 전략
   - 수료 인증서 발급 완료  
-  - 수료증은 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
+  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_%EC%82%AC%EC%9D%B4%EB%B2%84%EC%A7%84%EB%A1%9C%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0.pdf)
   - 후기 : 사이버진로교육센터 강의를 통해 서류전형 준비부터 자기소개서 작성, AI 기반 직업 정보, 공과계열 진로 멘토링, 구직 전략까지 실용적인 내용을 알차게 배웠습니다. 진로 고민 중인 분들께 추천합니다!
 
 </details>

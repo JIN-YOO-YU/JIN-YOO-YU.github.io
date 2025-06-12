@@ -106,7 +106,7 @@
 <details>
   <summary>직업선호도검사L형 참여(2025.05.07)</summary>
   
-  - 직업선호도검사확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf)
+  - 직업선호도검사확인서는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_%EC%A7%81%EC%97%85%EC%84%A0%ED%98%B8%EB%8F%84%EA%B2%80%EC%82%ACL%ED%98%95%EC%B0%B8%EC%97%AC%ED%99%95%EC%9D%B8%EC%84%9C.pdf)
   - 후기 : 검사를 통해 나에게 맞는 직업 유형을 간단하게 알아볼 수 있어서 유익했어요. 문항 수도 많지 않아 부담 없이 참여할 수 있었고, 결과도 비교적 정확하게 느껴졌습니다. 진로 고민이 있을 때 한 번쯤 해보면 좋을 것 같아요!
 </details>
 

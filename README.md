@@ -94,7 +94,7 @@
 <details>
   <summary>AI 엑스포 관람(2025.05.16)</summary>
 
-  - AI활동보고서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf)
+  - AI활동보고서는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_AI%EC%97%91%EC%8A%A4%ED%8F%AC%ED%99%9C%EB%8F%99%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 </details>
 <details>
   <summary>취업특강 관람(2025.05.14)</summary>

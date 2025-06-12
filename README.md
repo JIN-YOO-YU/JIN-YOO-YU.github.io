@@ -39,7 +39,7 @@
 # 🧰자격증
 ---
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/Cert139213253906.pdf">Mos Master 취득
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/Cert139213253906.pdf">Mos Master 취득
 
 
 # 💼학업 성과
@@ -65,7 +65,7 @@
   - #센스 있는 자기 PR: 자기소개서 A to Z(2시간)
   - 다양한 구직정보의 분석 및 활용 전략
   - 수료 인증서 발급 완료  
-  - 수료증은 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
+  - 수료증은 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
   - 후기 : 사이버진로교육센터 강의를 통해 서류전형 준비부터 자기소개서 작성, AI 기반 직업 정보, 공과계열 진로 멘토링, 구직 전략까지 실용적인 내용을 알차게 배웠습니다. 진로 고민 중인 분들께 추천합니다!
 
 </details>
@@ -75,7 +75,7 @@
   
   - 언텍트 진로특강(1시간)
   - 언텍트 튀업특강(1시간)
-  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
+  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
   - 후기 : 진로, 취업에 도움이됩니다.
 </details>
 
@@ -86,27 +86,27 @@
   - 새 프로젝트 제안(HOSPES) 및 자료 작성
   - 유니티에서 언리얼로 개발환경 변경 및 학습
   - HOSPES 스토리보드 및 개발 계획 정립
-  - 관련 자료는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
+  - 관련 자료는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
   - 후기 : 아주 유익하고 도움이 됩니다.
 </details>
 
 <details>
   <summary>AI 엑스포 관람(2025.05.16)</summary>
 
-  - AI활동보고서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf)
+  - AI활동보고서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_AI엑스포활동보고서.pdf)
 </details>
 <details>
   <summary>취업특강 관람(2025.05.14)</summary>
   
   - 3학년 취업특강 관람
-  - 취업특강확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_취업특강확인서.pdf)
+  - 취업특강확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_취업특강확인서.pdf)
   - 후기 : 취업 준비에 필요한 정보들을 쉽게 이해할 수 있었고, 실질적인 팁도 많이 얻을 수 있어서 유익했어요
 </details>
 
 <details>
   <summary>직업선호도검사L형 참여(2025.05.07)</summary>
   
-  - 직업선호도검사확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf)
+  - 직업선호도검사확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_직업선호도검사L형참여확인서.pdf)
   - 후기 : 검사를 통해 나에게 맞는 직업 유형을 간단하게 알아볼 수 있어서 유익했어요. 문항 수도 많지 않아 부담 없이 참여할 수 있었고, 결과도 비교적 정확하게 느껴졌습니다. 진로 고민이 있을 때 한 번쯤 해보면 좋을 것 같아요!
 </details>
 

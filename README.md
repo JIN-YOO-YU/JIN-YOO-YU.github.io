@@ -99,7 +99,7 @@
   <summary>취업특강 관람(2025.05.14)</summary>
   
   - 3학년 취업특강 관람
-  - 취업특강확인서는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_취업특강확인서.pdf)
+  - 취업특강확인서는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_%EC%A7%81%EC%97%85%EC%84%A0%ED%98%B8%EB%8F%84%EA%B2%80%EC%82%ACL%ED%98%95%EC%B0%B8%EC%97%AC%ED%99%95%EC%9D%B8%EC%84%9C.pdf)
   - 후기 : 취업 준비에 필요한 정보들을 쉽게 이해할 수 있었고, 실질적인 팁도 많이 얻을 수 있어서 유익했어요
 </details>
 

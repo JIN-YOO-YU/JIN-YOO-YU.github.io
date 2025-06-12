@@ -38,7 +38,7 @@
 
 # 🧰자격증
 ---
-+ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
++ #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/report.pdf">ITQ(엑셀, 파워포인트, 워드) A
 + #### <a href="https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/Cert139213253906.pdf">Mos Master 취득
 
 

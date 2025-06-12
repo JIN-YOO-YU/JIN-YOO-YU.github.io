@@ -75,8 +75,7 @@
   
   - 언텍트 진로특강(1시간)
   - 언텍트 튀업특강(1시간)
-  - 수료증은 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_사이버진로교육센터.pdf)
-  - github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf
+  - 수료증은 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_%EC%96%B8%ED%85%8D%ED%8A%B8%EC%A7%84%EB%A1%9C%26%EC%B7%A8%EC%97%85%ED%8A%B9%EA%B0%95.pdf)
   - 후기 : 진로, 취업에 도움이됩니다.
 </details>
 

@@ -87,7 +87,7 @@
   - 새 프로젝트 제안(HOSPES) 및 자료 작성
   - 유니티에서 언리얼로 개발환경 변경 및 학습
   - HOSPES 스토리보드 및 개발 계획 정립
-  - 관련 자료는 [PDF 보기](github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_유진우_함석현_언텍트 진로&취업특강.pdf)
+  - 관련 자료는 [PDF 보기](https://github.com/JIN-YOO-YU/JIN-YOO-YU.github.io/blob/main/data/J5_202103720_%EC%9C%A0%EC%A7%84%EC%9A%B0_%ED%95%A8%EC%84%9D%ED%98%84_%EC%8A%A4%ED%84%B0%EB%94%94%ED%95%A9%EB%B3%B8.pdf)
   - 후기 : 아주 유익하고 도움이 됩니다.
 </details>
 
